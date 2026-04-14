@@ -26,7 +26,7 @@ Mi versión implementa el método de forma **recursiva** y con **manejo de excep
 
 ## Código principal
 
-**Main.java**
+Main.java
 
 ```java
 Integer num = 0;
