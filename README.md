@@ -74,4 +74,4 @@ Esta unidad aborda la gestión de errores y la manipulación de datos mediante *
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/ectepciones-ficheros.git
+git clone https://github.com/tuusuario/excepciones-ficheros.git
